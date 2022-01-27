@@ -1,1 +1,2 @@
-I'm just writing this so that we can resolve the git confilict 
+<<<<<<< HEAD
+I'm just writing this so that we can resolve the git confilict
